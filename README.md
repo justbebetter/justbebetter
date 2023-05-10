@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Hieu </h1>
 <h3 align="center">A passionate and curious developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justbebetter&label=Profile%20views&color=0e75b6&style=flat" alt="justbebetter" /> </p>
 
